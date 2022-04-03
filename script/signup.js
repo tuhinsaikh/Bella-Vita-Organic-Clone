@@ -33,7 +33,7 @@ for(var i=0;i<userData.length;i++)
    else
    {
     //    console.log("no")
-       window.location.href="home.html"
+       window.location.href="index.html"
        break
    }
 }
